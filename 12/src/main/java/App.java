@@ -13,4 +13,5 @@ public class App
     
     APPP aa=new APPP();
     aa.BabyComeOn();
+    System.out.println("Hello Fucker!");
 }
