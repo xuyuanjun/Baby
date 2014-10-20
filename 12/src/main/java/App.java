@@ -11,7 +11,10 @@ public class App
         System.out.println( "Hello World!" );
     }
     
-    APPP aa=new APPP();
+    
+    APPP aa;
+    aa=new APPP();
     aa.BabyComeOn();
     System.out.println("Hello Fucker!");
+}
 }
